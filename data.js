@@ -79,6 +79,12 @@ var APP_DATA = {
           "pitch": 0.055193547210093286,
           "rotation": 0,
           "target": "2-conservatory-lounge"
+        },
+        {
+          "yaw": -0.011639400600083505,
+          "pitch": 0.007699895602247153,
+          "rotation": 0,
+          "target": "0-alice-lee-plaza"
         }
       ],
       "infoHotspots": [
