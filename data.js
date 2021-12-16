@@ -114,11 +114,18 @@ var APP_DATA = {
       ],
       "faceSize": 1440,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.96082224996068,
+        "pitch": -0.027920246238192448,
+        "fov": 1.3460472818770246
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -0.4071053057539782,
+          "pitch": -0.0067699683655213505,
+          "rotation": 0,
+          "target": "1-conservatory-foyer"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": 2.741452828463098,
